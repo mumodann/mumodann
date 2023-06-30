@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and AI software engineering
 - 🌱 I’m currently learning backend web develpment 
 - 💞️ I’m looking to collaborate on webdevelopment and AI sofatware
-- 📫 How to reach me mumodann@gmail.com == m.danmuoki@gmail.com
+- 📫 How to reach me mumodann@gmail.com
 
 <!---
 mumodann/mumodann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
